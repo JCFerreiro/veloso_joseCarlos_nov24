@@ -1,7 +1,7 @@
 ## Examen 24N.
 
  ## Pasos realizados 
- 1.  **Creación del repositorio en GitHub**: Creamos un repositorio llamado `apellido1_nombre_nov24` y lo configuramos como privado. 
+ 1.  **Creación del repositorio en GitHub**: Creamos un repositorio llamado `veloso_joseCarlos_nov24` y lo configuramos como privado. 
  2. **Clonación del repositorio en local**: Clonamos el repositorio en nuestra máquina local. 
  3. **Estructura de archivos y carpetas**: Organizamos los archivos en carpetas (`src`, `docs`, `assets`, `miConfiguracionPersonal`) y añadimos archivos específicos en cada carpeta. 4. **Configuración del archivo .gitignore**: Creamos un archivo `.gitignore` para ignorar ficheros fuente de Photoshop (*.xsd) y la carpeta `top_secret`. 
  5. **Creación de una rama secundaria**: Creamos una nueva rama con nuestro nombre y apellidos, y realizamos cambios en el archivo `README.md`. 
